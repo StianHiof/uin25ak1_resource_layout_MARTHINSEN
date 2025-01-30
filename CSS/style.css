@@ -81,6 +81,10 @@ main {
             ul {
                 font-size: 1.2rem;
             }
+
+            li a {
+                color: var(--blue);
+            }
         }
     }
 
